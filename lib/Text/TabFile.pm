@@ -129,7 +129,7 @@ newline appended).
 
 =head1 VERSION
 
-	Text::Tabfile v1.11 (2014/02/24)
+	Text::Tabfile v1.12 (2014/02/28)
 
 =head1 COPYRIGHT
 
@@ -155,7 +155,7 @@ reviewed here: http://opensource.org/licenses/artistic-license-2.0
 =cut
 
 package Text::TabFile;
-$Text::TabFile::VERSION='1.11';
+$Text::TabFile::VERSION='1.12';
 
 use base 'Text::Delimited';
 use strict;

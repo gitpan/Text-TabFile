@@ -1,6 +1,12 @@
 Revision history for Perl extension Text::TabFile.
 
-1.11  2014/02/24
+1.12  2014/02/28
+
+	Including a missing test data file.
+
+	Bumped version due to earlier upload error.
+
+	Now auto-generating META.json and META.yml
 
 	Updated meta information
 
