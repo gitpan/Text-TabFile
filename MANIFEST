@@ -1,13 +1,13 @@
 Changes
-LICENSE
 lib/Text/TabFile.pm
+LICENSE
 Makefile.PL
 MANIFEST
 README
+t/00-pod.t
 t/01-load.t
 t/02-historic.t
 t/03-parse.t
 t/test.tab
 META.yml                                 Module meta-data (added by MakeMaker)
 META.json
-Makefile.PL

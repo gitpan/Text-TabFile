@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Text-TabFile
-version:            1.12
+version:            1.13
 abstract:           Parsing tab delimited files
 author:
     - Phil Pollard <bennie@cpan.org>

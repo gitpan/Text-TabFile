@@ -5,7 +5,7 @@ WriteMakefile(
   AUTHOR   => 'Phil Pollard <bennie@cpan.org>',
   LICENSE  => 'artistic_2',
   NAME     => 'Text::TabFile',
-  VERSION  => '1.12',
+  VERSION  => '1.13',
 
   PREREQ_PM => {
           'Test' => '0',
