@@ -133,11 +133,11 @@ newline appended).
 
 	Bug tracking for this module: https://rt.cpan.org/Dist/Display.html?Name=Text-TabFile
 
-	Source hosting: http://www.github.com/bennie/perl-VMware-vCloud
+	Source hosting: http://www.github.com/bennie/perl-Text-TabFile
 
 =head1 VERSION
 
-	Text::Tabfile v1.13 (2014/03/01)
+	Text::Tabfile v1.14 (2014/03/08)
 
 =head1 COPYRIGHT
 
@@ -163,9 +163,10 @@ reviewed here: http://opensource.org/licenses/artistic-license-2.0
 =cut
 
 package Text::TabFile;
-$Text::TabFile::VERSION='1.13';
+$Text::TabFile::VERSION='1.14';
 
 use base 'Text::Delimited';
+use warnings;
 use strict;
 
 require Exporter;

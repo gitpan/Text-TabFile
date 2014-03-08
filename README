@@ -1,5 +1,5 @@
 
-         Text::TabFile - Module for parsing tab delimited files - v1.13
+         Text::TabFile - Module for parsing tab delimited files - v1.14
 
 ================================================================================
 SYNOPSIS:
@@ -144,7 +144,7 @@ SEE ALSO:
 AUTHORSHIP:
 ================================================================================
 
-    Text::TabFile v1.13 (2014/03/01)
+    Text::TabFile v1.14 (2014/03/08)
 
     (c) 2004-2014, Phillip Pollard <bennie@cpan.org>
     Released under the Perl Artistic License 2.0
